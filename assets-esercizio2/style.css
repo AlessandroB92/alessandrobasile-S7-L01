@@ -38,6 +38,10 @@ button{
     padding: 1rem;
     
 }
+ul{
+    list-style: none;
+    color: white;
+}
 
 #petList {
     margin-top: 20px;
